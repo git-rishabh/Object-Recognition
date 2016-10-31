@@ -1,3 +1,4 @@
+http://www.cs.toronto.edu/~kriz/cifar.html
 http://in.mathworks.com/help/nnet/gs/classify-patterns-with-a-neural-network.html
 http://in.mathworks.com/help/nnet/ug/create-and-train-custom-neural-network-architectures.html
 https://in.mathworks.com/matlabcentral/answers/222537-in-neural-network-how-can-i-change-the-sigmoid-activation-function-to-a-gaussian-one-how-to-modif
